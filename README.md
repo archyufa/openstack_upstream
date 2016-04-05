@@ -32,6 +32,8 @@ options:
     repository and navigate to `openstack_upstream` folder
     ```
     git clone https://github.com/archyufa/openstack_upstream.git
+    ```
+    ```
     cd openstack_upstream
     ```
  3. Configure according to your needs (see Configuration)
