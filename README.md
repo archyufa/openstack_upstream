@@ -28,11 +28,11 @@ options:
 ## Setup
 
  1. Make sure you have all prerequisites installed;
- 2. Clone [CloudFerry](https://github.com/MirantisWorkloadMobility/CloudFerry)
-    repository and navigate to `cloudferry_devlab` folder
+ 2. Clone https://github.com/archyufa/openstack_upstream.git
+    repository and navigate to `openstack_upstream` folder
     ```
-    git clone https://github.com/MirantisWorkloadMobility/CloudFerry.git
-    cd CloudFerry/cloudferry_devlab
+    git clone https://github.com/archyufa/openstack_upstream.git
+    cd openstack_upstream
     ```
  3. Configure according to your needs (see Configuration)
  4. Start vagrant
